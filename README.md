@@ -106,7 +106,7 @@ Prompt Guard is open-source and we **invite your contributions**!
 
 ## 📜 License
 
-This project is released under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details.
+This project is released under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
